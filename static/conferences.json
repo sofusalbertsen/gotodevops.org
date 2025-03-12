@@ -3072,5 +3072,23 @@
       "fahrenheit": null
     },
     "cost": 2
+  },
+  {
+    "name": "The Future of Software",
+    "url": "https://www.thefutureofsoftware.com/london",
+    "location": {
+      "city": "London",
+      "country": "UK",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2025-03-25T00:00:00.000Z",
+      "end": "2025-003-25T00:00:00.000Z"
+    },
+    "temperature": {
+      "celsius": 12,
+      "fahrenheit": 53
+    },
+    "cost": 1
   }
 ]
